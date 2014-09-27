@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\bin\Debug\Testing1.exe
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\bin\Debug\Testing1.pdb
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\obj\Debug\Testing1.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\obj\Debug\Testing1.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\obj\Debug\Testing1.exe
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\obj\Debug\Testing1.pdb
+C:\Users\Asus\Documents\Visual Studio 2005\Projects\Testing1\Testing1\obj\Debug\Testing1.TestSerial.resources
